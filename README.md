@@ -3,6 +3,6 @@
 - 📫 How to reach me: gc1@wellesley.edu
 
 <!---
-chag60460/chag60460 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+chag60460/About Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
