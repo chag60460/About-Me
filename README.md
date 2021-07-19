@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Grace
-- 👀 I’m interested in UI/UX Design & SWE
-- 🌱 I’m currently learning API
-- 💞️ I’m looking to collaborate on RenPy
-- 📫 How to reach me: iMessage chag60460@icloud.com
+- 👀 I’m interested in full-stack software engineering & AR/VR game development
+- 📫 How to reach me: gc1@wellesley.edu
 
 <!---
 chag60460/chag60460 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
